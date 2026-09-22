@@ -172,7 +172,7 @@ if __name__ == "__main__":
     parser.add_argument("--fresh", action="store_true",
                          help="Fetch live data from the Google Places API instead of using the cached "
                               "JSON snapshot (costs money per Google's API pricing).")
-    parser.set_defaults(start_location="home")
+    parser.set_defaults(start_location="office")
     args = parser.parse_args()
 
     main(args.start_location, fresh=args.fresh)
