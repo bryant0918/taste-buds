@@ -46,7 +46,7 @@ def load_google_data_from_json(filename="google_maps_data.json"):
     except (json.JSONDecodeError, KeyError) as e:
         print(f"Error loading Google data: {e}")
         return []
-
+    
 def generate_grid(lat, lon, step_m=1000):
     """
     Generate grid points around center.
@@ -67,7 +67,7 @@ def generate_grid(lat, lon, step_m=1000):
 
 def dedup_google_results(places):
     seen = {}
-
+    
     for place in places:
         place_id = place.get("place_id")
 
@@ -94,19 +94,16 @@ def get_google_places(center_lat, center_lon, radius_m=1200):
 
     url = "https://maps.googleapis.com/maps/api/place/nearbysearch/json"
 
-    # 🔥 Keywords to expand coverage
-    keywords = [
+    # Place type (Google's category taxonomy, not free-text keyword search).
+    # Tested against the live API: type=restaurant already catches fast-food
+    # chains (e.g. In-N-Out) since Google tags them "restaurant" too — the
+    # old keyword="restaurant" text search missed them because it matched on
+    # name/description text, not category. type=food and type=meal_takeaway
+    # were tested and dropped: "food" returns unrelated POIs (Target, hotels,
+    # the city itself — Google doesn't actually filter on it), and
+    # "meal_takeaway" only ever returned places already tagged "restaurant".
+    place_types = [
         "restaurant",
-        "fast food",
-        "cafe",
-        "pizza",
-        "mexican",
-        "chinese food",
-        "burger",
-        "sandwich",
-        "takeout",
-        "diner",
-        "food",
     ]
 
     # 🔥 Generate grid points (you already implemented this)
@@ -115,7 +112,7 @@ def get_google_places(center_lat, center_lon, radius_m=1200):
     all_results = []
 
     for grid_lat, grid_lon in grid_points:
-        for keyword in keywords:
+        for place_type in place_types:
 
             next_page_token = None
 
@@ -123,7 +120,7 @@ def get_google_places(center_lat, center_lon, radius_m=1200):
                 params = {
                     "location": f"{grid_lat},{grid_lon}",
                     "radius": radius_m,
-                    "keyword": keyword,
+                    "type": place_type,
                     "key": API_KEY
                 }
 
