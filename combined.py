@@ -1,7 +1,8 @@
+import argparse
 from overpass import get_overpass_places
 from yelp import load_yelp_data_from_json
 from foursquare import get_foursquare_places
-from google_maps import get_google_places, save_google_data_to_json
+from google_maps import get_google_places, save_google_data_to_json, load_google_data_from_json
 from haversine import haversine, Unit
 from visited import office_visited, office_doesnt_exist, office_skip, home_visited, home_doesnt_exist, home_skip
 
@@ -87,7 +88,7 @@ def filter_unvisited_places(places, visited_places, distance_threshold_m=50):
     
     return unvisited_places
 
-def main(start_location="office"):    
+def main(start_location="office", fresh=False):
     if start_location == "office":
         center_lat = 40.57041
         center_lon = -111.93905
@@ -116,9 +117,13 @@ def main(start_location="office"):
     # Get closest places from Foursquare
     closest_fsq = get_foursquare_places(center_lat, center_lon, radius)
 
-    # Get closest places from Google Maps (live fetch, then snapshot to JSON)
-    closest_google = get_google_places(center_lat, center_lon, radius)
-    save_google_data_to_json(closest_google, google_json)
+    # Get closest places from Google Maps (live fetch costs money — only do it
+    # when --fresh is passed; otherwise fall back to the cached JSON snapshot)
+    if fresh:
+        closest_google = get_google_places(center_lat, center_lon, radius)
+        save_google_data_to_json(closest_google, google_json)
+    else:
+        closest_google = load_google_data_from_json(google_json)
 
     # Assuming closest_osm, closest_yelp, closest_fsq are lists of dicts
     combined = closest_overpass + closest_yelp + closest_fsq + closest_google
@@ -160,4 +165,14 @@ def main(start_location="office"):
         print(f"{idx}. {name} - {dist:.0f} m")
 
 if __name__ == "__main__":
-    main("home")
+    parser = argparse.ArgumentParser(description="Find nearby unvisited restaurants.")
+    location_group = parser.add_mutually_exclusive_group()
+    location_group.add_argument("--office", action="store_const", dest="start_location", const="office")
+    location_group.add_argument("--home", action="store_const", dest="start_location", const="home")
+    parser.add_argument("--fresh", action="store_true",
+                         help="Fetch live data from the Google Places API instead of using the cached "
+                              "JSON snapshot (costs money per Google's API pricing).")
+    parser.set_defaults(start_location="home")
+    args = parser.parse_args()
+
+    main(args.start_location, fresh=args.fresh)
