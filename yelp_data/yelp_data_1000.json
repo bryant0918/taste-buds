@@ -1,0 +1,356 @@
+{
+  "timestamp": "2025-09-17T16:21:38.169985",
+  "data": [
+    {
+      "name": "Maverik Adventure's First Stop",
+      "distance_m": 342.1893621668235,
+      "address": "9780 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5734867,
+      "lon": -111.93896492252831
+    },
+    {
+      "name": "Soda Boba",
+      "distance_m": 661.8428275193143,
+      "address": "10309 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5644888,
+      "lon": -111.9382528
+    },
+    {
+      "name": "Smith's Food & Drug Centers",
+      "distance_m": 815.5164575173504,
+      "address": "1634 W South Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56311,
+      "lon": -111.93812
+    },
+    {
+      "name": "Ding Tea",
+      "distance_m": 855.1426070111431,
+      "address": "10382 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.56272747140677,
+      "lon": -111.93951
+    },
+    {
+      "name": "Bubbakoo's Burritos",
+      "distance_m": 862.4423217469085,
+      "address": "10384 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.562659897723265,
+      "lon": -111.9394521
+    },
+    {
+      "name": "McDonald's",
+      "distance_m": 866.2025764211276,
+      "address": "10381 S Redwood, South Jordan, UT 84095",
+      "lat": 40.562667,
+      "lon": -111.937926
+    },
+    {
+      "name": "Ils",
+      "distance_m": 867.3145369305757,
+      "address": "10381 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.56266,
+      "lon": -111.93789
+    },
+    {
+      "name": "Hokulia Shave Ice - South Jordan",
+      "distance_m": 874.6353864230056,
+      "address": "1634 S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56266,
+      "lon": -111.93728
+    },
+    {
+      "name": "MOD Pizza",
+      "distance_m": 874.8841469516898,
+      "address": "1598 S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56279,
+      "lon": -111.93647
+    },
+    {
+      "name": "China Wok",
+      "distance_m": 892.4233385525782,
+      "address": "1594 W 10400th S, South Jordan, UT 84095",
+      "lat": 40.562755,
+      "lon": -111.935876
+    },
+    {
+      "name": "Del Taco",
+      "distance_m": 923.9826104948095,
+      "address": "1651 W South Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.5621851,
+      "lon": -111.9374925
+    },
+    {
+      "name": "Walgreens",
+      "distance_m": 975.8640860429166,
+      "address": "10429 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5616795968482,
+      "lon": -111.93787202239
+    },
+    {
+      "name": "Astro Burgers",
+      "distance_m": 997.3125702206922,
+      "address": "10446 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.561441,
+      "lon": -111.939083
+    },
+    {
+      "name": "Hikari Sushi",
+      "distance_m": 1032.201461118703,
+      "address": "10468 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.56113,
+      "lon": -111.93935
+    },
+    {
+      "name": "Apna Baazar",
+      "distance_m": 1058.3885242550748,
+      "address": "10482 S Redwood Rd, South Jordan, UT 84070",
+      "lat": 40.56089355427559,
+      "lon": -111.93929754447404
+    },
+    {
+      "name": "Harmons Neighborhood Grocer",
+      "distance_m": 1089.6447481620846,
+      "address": "10507 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5607372629457,
+      "lon": -111.93698268760484
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "distance_m": 1092.2542666055647,
+      "address": "10493 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.560591,
+      "lon": -111.9386873
+    },
+    {
+      "name": "Sodalicious",
+      "distance_m": 1097.2927927229712,
+      "address": "1421 S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.5620282499085,
+      "lon": -111.932193758456
+    },
+    {
+      "name": "Donut Star Cafe",
+      "distance_m": 1111.152347415006,
+      "address": "10522 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.560419,
+      "lon": -111.939301
+    },
+    {
+      "name": "Subway",
+      "distance_m": 1119.664783025367,
+      "address": "10503 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.560365,
+      "lon": -111.9381283
+    },
+    {
+      "name": "Arctic Restaurants",
+      "distance_m": 1140.3992740564304,
+      "address": "1383 W South Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.5621042,
+      "lon": -111.9311302
+    },
+    {
+      "name": "Red Dragon Chinese Bistro",
+      "distance_m": 1146.4778066707067,
+      "address": "1383 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56191261205668,
+      "lon": -111.9313628254738
+    },
+    {
+      "name": "Mochinut",
+      "distance_m": 1172.2963528218713,
+      "address": "10497 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.559887,
+      "lon": -111.938202
+    },
+    {
+      "name": "Itto Sushi",
+      "distance_m": 1223.9954247117955,
+      "address": "10555 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.55942,
+      "lon": -111.93823
+    },
+    {
+      "name": "Panda Express",
+      "distance_m": 1239.984831574003,
+      "address": "10555 S Redwood Rd, Ste B, South Jordan, UT 84095",
+      "lat": 40.559275367093974,
+      "lon": -111.93824445951756
+    },
+    {
+      "name": "Munchkart",
+      "distance_m": 1284.1998798077566,
+      "address": "1776 W 10610 S, Ste A, South Jordan, UT 84095",
+      "lat": 40.55889,
+      "lon": -111.940128
+    },
+    {
+      "name": "Oh Mai Sandwich Kitchen South Jordan",
+      "distance_m": 1295.2776103729143,
+      "address": "1644 W Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.55884432137673,
+      "lon": -111.93722259607377
+    },
+    {
+      "name": "Cafe Rio Fresh Modern Mexican",
+      "distance_m": 1300.3585863406315,
+      "address": "1664 West Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.55876,
+      "lon": -111.93771
+    },
+    {
+      "name": "South Jordan Farmers Market",
+      "distance_m": 1300.3682477794607,
+      "address": "10610 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.558734,
+      "lon": -111.938185
+    },
+    {
+      "name": "Sri Annapoorani",
+      "distance_m": 1303.9625662166316,
+      "address": "1776 W 10610 S, Ste A, South Jordan, UT 84095",
+      "lat": 40.55870725384363,
+      "lon": -111.94003822345512
+    },
+    {
+      "name": "Maverik",
+      "distance_m": 1305.2684182087105,
+      "address": "10425 S 1300th W, South Jordan, UT 84009",
+      "lat": 40.56179031507918,
+      "lon": -111.92856059546304
+    },
+    {
+      "name": "Tonyburgers - South Jordan",
+      "distance_m": 1351.6278493101859,
+      "address": "1685 Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.5582736320463,
+      "lon": -111.93815344085397
+    },
+    {
+      "name": "DP Cheesesteaks",
+      "distance_m": 1351.9030921997928,
+      "address": "1665 W Town Center Dr, South Jordan, UT 84095",
+      "lat": 40.558286,
+      "lon": -111.937855
+    },
+    {
+      "name": "Menchie's Frozen Yogurt",
+      "distance_m": 1354.6328045878963,
+      "address": "1665 W Towne Center Dr, Ste B-4, South Jordan, UT 84095",
+      "lat": 40.5582740716743,
+      "lon": -111.937649293254
+    },
+    {
+      "name": "Flake Pie Co.",
+      "distance_m": 1359.4120753296809,
+      "address": "1665 Towne Center Dr, Ste 3, South Jordan, UT 84095",
+      "lat": 40.558222,
+      "lon": -111.937791
+    },
+    {
+      "name": "Barbara Ruths Fine Chocolates",
+      "distance_m": 1361.2459458928354,
+      "address": "1665 Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.5582071,
+      "lon": -111.9377637
+    },
+    {
+      "name": "Natural Grocers",
+      "distance_m": 1378.8381769839734,
+      "address": "10622 South Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.55801,
+      "lon": -111.9391361
+    },
+    {
+      "name": "The Pie Pizzeria - South Jordan",
+      "distance_m": 1389.0892144582492,
+      "address": "10627 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.558032,
+      "lon": -111.93683
+    },
+    {
+      "name": "Flavors of India",
+      "distance_m": 1484.699435304561,
+      "address": "1650 W Fox Park Dr, West Jordan, UT 84088",
+      "lat": 40.5837598,
+      "lon": -111.9387164
+    },
+    {
+      "name": "Schmidt's Pastry Cottage",
+      "distance_m": 1564.0615697014246,
+      "address": "1133 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56129181486395,
+      "lon": -111.92495127331073
+    },
+    {
+      "name": "Starbucks",
+      "distance_m": 1646.9936349974157,
+      "address": "1121 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.561039461984535,
+      "lon": -111.92395
+    },
+    {
+      "name": "Biscotts Bakery & Cafe",
+      "distance_m": 1680.9046716020362,
+      "address": "1098 W South Jordan Pkwy, Ste 110, South Jordan, UT 84095",
+      "lat": 40.561755,
+      "lon": -111.922735
+    },
+    {
+      "name": "Desi Groceries",
+      "distance_m": 1689.0650911868836,
+      "address": "1098 S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.561605,
+      "lon": -111.922756
+    },
+    {
+      "name": "Saffron Valley Indian Street Foods",
+      "distance_m": 1707.8273043924332,
+      "address": "1098 W S Jordan Pkwy, Ste 102, South Jordan, UT 84095",
+      "lat": 40.561482262621254,
+      "lon": -111.92259841555446
+    },
+    {
+      "name": "CurryPizza - South Jordan - Main",
+      "distance_m": 1790.0555881527814,
+      "address": "1086 S Jordan Pkwy, Ste 111, South Jordan, UT 84095",
+      "lat": 40.56126810733753,
+      "lon": -111.92160699043096
+    },
+    {
+      "name": "The Mocha Motive",
+      "distance_m": 3264.1250586592655,
+      "address": "South Jordan, UT 84095",
+      "lat": 40.55679,
+      "lon": -111.90482
+    },
+    {
+      "name": "Great Harvest Bread Co. Bakery & Cafe",
+      "distance_m": 3383.8889388878474,
+      "address": "South Jordan, UT 84095",
+      "lat": 40.55238,
+      "lon": -111.90678
+    },
+    {
+      "name": "The matterhorn",
+      "distance_m": 3383.8889388878474,
+      "address": "South Jordan, UT 84095",
+      "lat": 40.55238,
+      "lon": -111.90678
+    },
+    {
+      "name": "BK Garlic Burger & Mac Shack",
+      "distance_m": 4379.358867800635,
+      "address": "Riverton, UT 84095",
+      "lat": 40.54288,
+      "lon": -111.97612
+    },
+    {
+      "name": "The Ramen Mobile",
+      "distance_m": 21546.764176459605,
+      "address": "Salt Lake City, UT 84095",
+      "lat": 40.7603099,
+      "lon": -111.88822
+    }
+  ],
+  "count": 50
+}

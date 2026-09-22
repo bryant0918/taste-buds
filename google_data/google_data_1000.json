@@ -1,0 +1,96 @@
+{
+  "timestamp": "2026-04-17T14:23:37.691731",
+  "data": [
+    {
+      "name": "Maverik",
+      "distance_m": 359.0596684127348,
+      "address": "9780 South Redwood Road, South Jordan",
+      "lat": 40.57361809999999,
+      "lon": -111.939534,
+      "rating": 3.6,
+      "source": "google"
+    },
+    {
+      "name": "El fog\u00f3n venezolano",
+      "distance_m": 642.5899670004264,
+      "address": "10300 South Redwood Road, South Jordan",
+      "lat": 40.56464059999999,
+      "lon": -111.939487,
+      "rating": 4.1,
+      "source": "google"
+    },
+    {
+      "name": "El Beto",
+      "distance_m": 662.8301788803461,
+      "address": "10255 South Redwood Road, South Jordan",
+      "lat": 40.5644806,
+      "lon": -111.9382435,
+      "rating": null,
+      "source": "google"
+    },
+    {
+      "name": "China Wok",
+      "distance_m": 775.314607607861,
+      "address": "1594 10400 South, South Jordan",
+      "lat": 40.5637732,
+      "lon": -111.936236,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "TACOS EL PARIENTE # 5",
+      "distance_m": 796.7101245385627,
+      "address": "10334 South Redwood Road, South Jordan",
+      "lat": 40.56325639999999,
+      "lon": -111.9385187,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Hokulia Shave Ice - South Jordan",
+      "distance_m": 818.4760789355549,
+      "address": "1634 South Jordan Parkway, South Jordan",
+      "lat": 40.56308729999999,
+      "lon": -111.9380664,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Bubbakoo's Burritos",
+      "distance_m": 863.6309344876785,
+      "address": "10384 South Redwood Road, South Jordan",
+      "lat": 40.5626492,
+      "lon": -111.9394521,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "McDonald's",
+      "distance_m": 866.2025764211276,
+      "address": "10381 South Redwood Road, South Jordan",
+      "lat": 40.562667,
+      "lon": -111.937926,
+      "rating": 3.3,
+      "source": "google"
+    },
+    {
+      "name": "MOD Pizza",
+      "distance_m": 878.8083353824379,
+      "address": "1598 South Jordan Parkway, South Jordan",
+      "lat": 40.5627495,
+      "lon": -111.936491,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "Del Taco",
+      "distance_m": 953.9353177746611,
+      "address": "1651 South Jordan Parkway West, South Jordan",
+      "lat": 40.56194419999999,
+      "lon": -111.937222,
+      "rating": 4,
+      "source": "google"
+    }
+  ],
+  "count": 10
+}

@@ -1,0 +1,356 @@
+{
+  "timestamp": "2025-09-17T16:34:50.049054",
+  "data": [
+    {
+      "name": "Sol Agave",
+      "distance_m": 1195.2490886831945,
+      "address": "749 West 100 North, Suite CRA 8, American Fork, UT 84003",
+      "lat": 40.378537528768135,
+      "lon": -111.8191768
+    },
+    {
+      "name": "Ocotillo Prime",
+      "distance_m": 1304.608363149054,
+      "address": "598 W Main St, American Fork, UT 84003",
+      "lat": 40.3772232026438,
+      "lon": -111.8142395
+    },
+    {
+      "name": "Cupbop - Korean BBQ in a Cup",
+      "distance_m": 1306.3820193665724,
+      "address": "598 W Main St, American Fork, UT 84003",
+      "lat": 40.37724029014837,
+      "lon": -111.81423279447708
+    },
+    {
+      "name": "Haku Ramen House",
+      "distance_m": 1477.808874986739,
+      "address": "101 NW State St, Ste 104, American Fork, UT 84003",
+      "lat": 40.378830803247745,
+      "lon": -111.81353539068188
+    },
+    {
+      "name": "Root's Place Burgers & More",
+      "distance_m": 1489.8403681602585,
+      "address": "66 NW State St, American Fork, UT 84003",
+      "lat": 40.37845,
+      "lon": -111.81276
+    },
+    {
+      "name": "Don Joaqu\u00edn Street Tacos",
+      "distance_m": 1490.0536266779056,
+      "address": "74 NW State St, American Fork, UT 84003",
+      "lat": 40.37813255798234,
+      "lon": -111.81232687367536
+    },
+    {
+      "name": "Vessel Kitchen",
+      "distance_m": 1611.0806024556261,
+      "address": "197 NW State St, Ste B, American Fork, UT 84003",
+      "lat": 40.38117,
+      "lon": -111.81516
+    },
+    {
+      "name": "Super Chix",
+      "distance_m": 1631.674357258933,
+      "address": "643 Pacific Dr, Ste 102, American Fork, UT 84003",
+      "lat": 40.38173020407208,
+      "lon": -111.8159935186522
+    },
+    {
+      "name": "Gourmandise The Bakery",
+      "distance_m": 1701.5853893215065,
+      "address": "215 East State St, American Fork, UT 84003",
+      "lat": 40.3816824,
+      "lon": -111.8142067
+    },
+    {
+      "name": "Aubergine Kitchen",
+      "distance_m": 1753.3180087883288,
+      "address": "232 NW State St, Ste 200, American Fork, UT 84003",
+      "lat": 40.382025,
+      "lon": -111.8137738
+    },
+    {
+      "name": "Box Bite",
+      "distance_m": 1849.733121758852,
+      "address": "323 NW State St, Ste C, American Fork, UT 84003",
+      "lat": 40.38373907338045,
+      "lon": -111.81552482381882
+    },
+    {
+      "name": "CHOM Burger",
+      "distance_m": 2066.8996987596324,
+      "address": "496 N 990th W, American Fork, UT 84003",
+      "lat": 40.38726,
+      "lon": -111.82523
+    },
+    {
+      "name": "Mastra",
+      "distance_m": 2116.8257888650282,
+      "address": "476 N 900 W, Ste D, American Fork, UT 84003",
+      "lat": 40.3874788989601,
+      "lon": -111.82088891912385
+    },
+    {
+      "name": "The Smoked Taco",
+      "distance_m": 2175.9134638776754,
+      "address": "933 W 500th N, Ste 102, American Fork, UT 84003",
+      "lat": 40.3881939793776,
+      "lon": -111.8229629021079
+    },
+    {
+      "name": "Little India",
+      "distance_m": 2192.064587235264,
+      "address": "987 W 500 N, Ste 101, American Fork, UT 84003",
+      "lat": 40.38838,
+      "lon": -111.82402
+    },
+    {
+      "name": "Ganesh Express",
+      "distance_m": 2207.339805741235,
+      "address": "785 E 200th S, Ste 8, Lehi, UT 84043",
+      "lat": 40.386434,
+      "lon": -111.836432
+    },
+    {
+      "name": "Zaperoco Food",
+      "distance_m": 2236.9697263680164,
+      "address": "785 E 200th S, Ste 9, Lehi, UT 84043",
+      "lat": 40.38664440947208,
+      "lon": -111.83666155973305
+    },
+    {
+      "name": "Zao Asian Cafe - Lehi",
+      "distance_m": 2260.288045153478,
+      "address": "1249 E Main St, Ste 100, Lehi, UT 84043",
+      "lat": 40.388652,
+      "lon": -111.82972
+    },
+    {
+      "name": "Ike's Love & Sandwiches",
+      "distance_m": 2288.4350173401426,
+      "address": "1195 E Main St, Lehi, UT 84043",
+      "lat": 40.38872,
+      "lon": -111.83091
+    },
+    {
+      "name": "El Mexiquense Grill",
+      "distance_m": 2291.5342312317975,
+      "address": "50 N 1200 E, Ste 100, Lehi, UT 84043",
+      "lat": 40.3888714,
+      "lon": -111.8301693
+    },
+    {
+      "name": "Via 313 Pizza",
+      "distance_m": 2375.3158897431103,
+      "address": "1085 East Main St, Ste 200, Lehi, UT 84043",
+      "lat": 40.38931,
+      "lon": -111.83204
+    },
+    {
+      "name": "Porch Coffee",
+      "distance_m": 2616.9778917077447,
+      "address": "380 E Main St, Lehi, UT 84005",
+      "lat": 40.38761948326822,
+      "lon": -111.8431191
+    },
+    {
+      "name": "Porch Coffee",
+      "distance_m": 2617.113341202594,
+      "address": "380 E Main St, Ste G, Lehi, UT 84043",
+      "lat": 40.387607,
+      "lon": -111.843144
+    },
+    {
+      "name": "Nachos Live!",
+      "distance_m": 2737.8616411231887,
+      "address": "268 E Main St, Lehi, UT 84043",
+      "lat": 40.3878568,
+      "lon": -111.8450526
+    },
+    {
+      "name": "Edna\u2019s Market & Grille",
+      "distance_m": 2794.9399897665267,
+      "address": "380 N 850th E, Lehi, UT 84043",
+      "lat": 40.392157439413005,
+      "lon": -111.83655646445943
+    },
+    {
+      "name": "Kitchen Eighty-Eight",
+      "distance_m": 3377.2304212135705,
+      "address": "American Fork, UT 84003",
+      "lat": 40.366921,
+      "lon": -111.784991
+    },
+    {
+      "name": "Cafe Trang Bistro",
+      "distance_m": 3388.505302286639,
+      "address": "529 S 500 E, American Fork, UT 84003",
+      "lat": 40.36620778359501,
+      "lon": -111.7849229
+    },
+    {
+      "name": "Burgers & Barley",
+      "distance_m": 3391.4997283121156,
+      "address": "529 S 500th E, American Fork, UT 84003",
+      "lat": 40.3661071528707,
+      "lon": -111.78489840772838
+    },
+    {
+      "name": "PoPIE 1929",
+      "distance_m": 3399.962374653282,
+      "address": "541 S 500 E St, Unit F, American Fork, UT 84003",
+      "lat": 40.3656,
+      "lon": -111.78486
+    },
+    {
+      "name": "Po Pie 1929",
+      "distance_m": 3408.6172684126263,
+      "address": "541 S 500 E St, Ste F, American Fork, UT 84003",
+      "lat": 40.365398,
+      "lon": -111.784785
+    },
+    {
+      "name": "Saltys Grill",
+      "distance_m": 4890.432765543834,
+      "address": "571 W State St, Lehi, UT 84043",
+      "lat": 40.40442824009624,
+      "lon": -111.8584139687744
+    },
+    {
+      "name": "Rolberto's Mexican Food",
+      "distance_m": 4926.735987096772,
+      "address": "1750 W Main St, Lehi, UT 84043",
+      "lat": 40.38774998300985,
+      "lon": -111.87728425731387
+    },
+    {
+      "name": "The Great Greek Mediterranean Grill",
+      "distance_m": 5226.72468106195,
+      "address": "758 S N County Blvd, Pleasant Grove, UT 84062",
+      "lat": 40.354702,
+      "lon": -111.765888
+    },
+    {
+      "name": "Tossd",
+      "distance_m": 5303.718190302997,
+      "address": "612 S Pleasant Grove Blvd, Ste 100, Pleasant Grove, UT 84062",
+      "lat": 40.356125824080195,
+      "lon": -111.7643953738612
+    },
+    {
+      "name": "Seven Brothers",
+      "distance_m": 5322.400507942694,
+      "address": "1495 W State St, Pleasant Grove, UT 84062",
+      "lat": 40.368126,
+      "lon": -111.761968
+    },
+    {
+      "name": "Wok the Line",
+      "distance_m": 5396.190969970199,
+      "address": "1865 W Pleasant Grove Blvd, Ste E, Pleasant Grove, UT 84062",
+      "lat": 40.353238,
+      "lon": -111.764408
+    },
+    {
+      "name": "Under Wraps",
+      "distance_m": 5419.812271819701,
+      "address": "1043 S Valley Grove Way, Pleasant Grove, UT 84062",
+      "lat": 40.35196652726103,
+      "lon": -111.76469748208224
+    },
+    {
+      "name": "Wayback Burgers",
+      "distance_m": 5503.371401865987,
+      "address": "863 S N County Blvd, Ste D, E, Pleasant Grove, UT 84062",
+      "lat": 40.353655,
+      "lon": -111.762898
+    },
+    {
+      "name": "Paul's Place Sandwich Shop",
+      "distance_m": 5930.555492054031,
+      "address": "981 W State St, Pleasant Grove, UT 84062",
+      "lat": 40.3650352081713,
+      "lon": -111.754950178067
+    },
+    {
+      "name": "Cravings Bistro",
+      "distance_m": 7097.841475140322,
+      "address": "25 W Center St, Pleasant Grove, UT 84062",
+      "lat": 40.363755,
+      "lon": -111.741259
+    },
+    {
+      "name": "Chubby's Cafe",
+      "distance_m": 7193.625867880973,
+      "address": "336 S Main St, Pleasant Grove, UT 84062",
+      "lat": 40.3594407908691,
+      "lon": -111.7407513
+    },
+    {
+      "name": "Kluck\u2019s Krispy Chicken",
+      "distance_m": 7518.426473956209,
+      "address": "282 E Crossroads Blvd, Saratoga Springs, UT 84045",
+      "lat": 40.38815747294822,
+      "lon": -111.909782216687
+    },
+    {
+      "name": "Viet Deli",
+      "distance_m": 7552.481878241051,
+      "address": "274 E Crossroads Blvd, Saratoga Springs, UT 84045",
+      "lat": 40.3881666583694,
+      "lon": -111.910198372177
+    },
+    {
+      "name": "Budda's Bakery & Breakfast",
+      "distance_m": 7615.224397929689,
+      "address": "205 E 700th S, Ste D, Pleasant Grove, UT 84062",
+      "lat": 40.35494784160472,
+      "lon": -111.7367328
+    },
+    {
+      "name": "Thai Better",
+      "distance_m": 7642.143897965829,
+      "address": "222 Crossroads Blvd, Saratoga Springs, UT 84045",
+      "lat": 40.38814072911418,
+      "lon": -111.91131281455948
+    },
+    {
+      "name": "The Holy Grill",
+      "distance_m": 7687.242857023264,
+      "address": "322 E S St, Pleasant Grove, UT 84062",
+      "lat": 40.3537491215976,
+      "lon": -111.73619940877
+    },
+    {
+      "name": "Bonchon",
+      "distance_m": 8163.496725692946,
+      "address": "4247 W Orinda Dr, Ste C, Lehi, UT 84043",
+      "lat": 40.39159195718649,
+      "lon": -111.9163487
+    },
+    {
+      "name": "Guroott",
+      "distance_m": 13209.861143375147,
+      "address": "266 N State St, Orem, UT 84057-6601",
+      "lat": 40.3018017,
+      "lon": -111.6959762
+    },
+    {
+      "name": "Di Napoli",
+      "distance_m": 15255.168139499603,
+      "address": "29 W University Pkwy, Orem, UT 84058",
+      "lat": 40.27313315015817,
+      "lon": -111.69565355610196
+    },
+    {
+      "name": "Bonchon",
+      "distance_m": 15874.562479010074,
+      "address": "541 East University Pkwy, Space A, Orem, UT 84097",
+      "lat": 40.27478790159276,
+      "lon": -111.68372734441724
+    }
+  ],
+  "count": 50
+}

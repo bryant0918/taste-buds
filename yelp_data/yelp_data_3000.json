@@ -1,0 +1,356 @@
+{
+  "timestamp": "2025-09-17T16:21:41.672138",
+  "data": [
+    {
+      "name": "MOD Pizza",
+      "distance_m": 874.8841469516898,
+      "address": "1598 S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56279,
+      "lon": -111.93647
+    },
+    {
+      "name": "Red Dragon Chinese Bistro",
+      "distance_m": 1146.4778066707067,
+      "address": "1383 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56191261205668,
+      "lon": -111.9313628254738
+    },
+    {
+      "name": "Mochinut",
+      "distance_m": 1172.2963528218713,
+      "address": "10497 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.559887,
+      "lon": -111.938202
+    },
+    {
+      "name": "Munchkart",
+      "distance_m": 1284.1998798077566,
+      "address": "1776 W 10610 S, Ste A, South Jordan, UT 84095",
+      "lat": 40.55889,
+      "lon": -111.940128
+    },
+    {
+      "name": "Oh Mai Sandwich Kitchen South Jordan",
+      "distance_m": 1295.2776103729143,
+      "address": "1644 W Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.55884432137673,
+      "lon": -111.93722259607377
+    },
+    {
+      "name": "Sri Annapoorani",
+      "distance_m": 1303.9625662166316,
+      "address": "1776 W 10610 S, Ste A, South Jordan, UT 84095",
+      "lat": 40.55870725384363,
+      "lon": -111.94003822345512
+    },
+    {
+      "name": "Tonyburgers - South Jordan",
+      "distance_m": 1351.6278493101859,
+      "address": "1685 Towne Center Dr, South Jordan, UT 84095",
+      "lat": 40.5582736320463,
+      "lon": -111.93815344085397
+    },
+    {
+      "name": "DP Cheesesteaks",
+      "distance_m": 1351.9030921997928,
+      "address": "1665 W Town Center Dr, South Jordan, UT 84095",
+      "lat": 40.558286,
+      "lon": -111.937855
+    },
+    {
+      "name": "Flake Pie Co.",
+      "distance_m": 1359.4120753296809,
+      "address": "1665 Towne Center Dr, Ste 3, South Jordan, UT 84095",
+      "lat": 40.558222,
+      "lon": -111.937791
+    },
+    {
+      "name": "The Pie Pizzeria - South Jordan",
+      "distance_m": 1389.0892144582492,
+      "address": "10627 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.558032,
+      "lon": -111.93683
+    },
+    {
+      "name": "Tacos 1905",
+      "distance_m": 1541.6445657141428,
+      "address": "10709 S Redwood Rd, Ste 101, South Jordan, UT 84095",
+      "lat": 40.55655944689539,
+      "lon": -111.9382368028164
+    },
+    {
+      "name": "Tacos los angeles restaurant ",
+      "distance_m": 1695.2346101151775,
+      "address": "9117 S Redwood Rd, West Jordan, UT 84088",
+      "lat": 40.58563743620808,
+      "lon": -111.93807072987734
+    },
+    {
+      "name": "Nagoya Hibachi & Sushi Burrito",
+      "distance_m": 1715.4520172386237,
+      "address": "9105 Redwood Rd, West Jordan, UT 84088",
+      "lat": 40.585819,
+      "lon": -111.938058
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance_m": 1754.009700049206,
+      "address": "9089 S Redwood Rd, West Jordan, UT 84088",
+      "lat": 40.58617,
+      "lon": -111.93817
+    },
+    {
+      "name": "CurryPizza - South Jordan - Main",
+      "distance_m": 1790.0555881527814,
+      "address": "1086 S Jordan Pkwy, Ste 111, South Jordan, UT 84095",
+      "lat": 40.56126810733753,
+      "lon": -111.92160699043096
+    },
+    {
+      "name": "Tushar Brazilian Express",
+      "distance_m": 1828.2531510807305,
+      "address": "1078 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.5611299690137,
+      "lon": -111.9211833179
+    },
+    {
+      "name": "Nami Lily Sushi & Ramen",
+      "distance_m": 1845.605185395164,
+      "address": "1072 W S Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.56115015543721,
+      "lon": -111.92091712075748
+    },
+    {
+      "name": "Pho 9",
+      "distance_m": 1884.8359668429787,
+      "address": "1823 West 9000 S, West Jordan, UT 84088",
+      "lat": 40.5872978953289,
+      "lon": -111.940969619618
+    },
+    {
+      "name": "Hot Oven Pizza",
+      "distance_m": 1902.8854149112078,
+      "address": "1575 9000th S, West Jordan, UT 84088",
+      "lat": 40.58732,
+      "lon": -111.9355895
+    },
+    {
+      "name": "V Burger",
+      "distance_m": 1923.4140052682949,
+      "address": "1669 W 9000th S, West Jordan, UT 84088",
+      "lat": 40.58768381006205,
+      "lon": -111.9378546
+    },
+    {
+      "name": "Vietopia Bistro",
+      "distance_m": 1933.98030902488,
+      "address": "1407 West 9000 S, West Jordan, UT 84088",
+      "lat": 40.586912065262815,
+      "lon": -111.93181605423972
+    },
+    {
+      "name": "Katsu City",
+      "distance_m": 1959.1829566712343,
+      "address": "1387 W 9000th S, West Jordan, UT 84088",
+      "lat": 40.586990104637245,
+      "lon": -111.93120072944772
+    },
+    {
+      "name": "Village Baker",
+      "distance_m": 1970.0493534907969,
+      "address": "1658 W 9000th S, West Jordan, UT 84088",
+      "lat": 40.58808,
+      "lon": -111.937351
+    },
+    {
+      "name": "The Black Sheep Bar & Grill",
+      "distance_m": 1998.5867077294308,
+      "address": "1520 W 9000th S, West Jordan, UT 84088",
+      "lat": 40.5880432,
+      "lon": -111.9344655
+    },
+    {
+      "name": "Mirazur Parrilla Colombiana",
+      "distance_m": 2002.5830167277936,
+      "address": "10949 S Redwood Rd, Ste 400, South Jordan, UT 84095",
+      "lat": 40.55242701834776,
+      "lon": -111.93776071071623
+    },
+    {
+      "name": "H Mart",
+      "distance_m": 2005.7363197489958,
+      "address": "1442 W 9000th S, West Jordan, UT 84088",
+      "lat": 40.5877859,
+      "lon": -111.9326744988351
+    },
+    {
+      "name": "Chicha San Chen",
+      "distance_m": 2130.537995714657,
+      "address": "1442 W 9000th S, Unit 102, West Jordan, UT 84088",
+      "lat": 40.58898226888009,
+      "lon": -111.9328477
+    },
+    {
+      "name": "BFF Turon",
+      "distance_m": 2219.643465668529,
+      "address": "8860 S Redwood Rd, Ste 103, West Jordan, UT 84088",
+      "lat": 40.590371,
+      "lon": -111.939271
+    },
+    {
+      "name": "Honolulu Grill West Jordan",
+      "distance_m": 2223.185936977125,
+      "address": "8860 S Redwood Rd 102, Ste 102, West Jordan, UT 84088",
+      "lat": 40.5904035,
+      "lon": -111.93911653221048
+    },
+    {
+      "name": "Maria\u00b4s Mexican Grill - South Jordan",
+      "distance_m": 2662.0352986313287,
+      "address": "781 W 10600 S, South Jordan, UT 84095",
+      "lat": 40.558625,
+      "lon": -111.911619
+    },
+    {
+      "name": "Bawarchi - Salt Lake City",
+      "distance_m": 2802.200353665925,
+      "address": "689 W South Jordan Pkwy, South Jordan, UT 84095",
+      "lat": 40.55835486196818,
+      "lon": -111.90991870332796
+    },
+    {
+      "name": "El Morelense South Jordan",
+      "distance_m": 2968.6636123448952,
+      "address": "1557 W 11400th S, Ste B-C, South Jordan, UT 84095",
+      "lat": 40.543845019847055,
+      "lon": -111.93554924110455
+    },
+    {
+      "name": "Crazy D\u2019s Hot Chicken",
+      "distance_m": 2969.125929418697,
+      "address": "1557 West 11400 S, Ste A, South Jordan, UT 84095",
+      "lat": 40.54384094337877,
+      "lon": -111.9355479
+    },
+    {
+      "name": "The matterhorn",
+      "distance_m": 3383.8889388878474,
+      "address": "South Jordan, UT 84095",
+      "lat": 40.55238,
+      "lon": -111.90678
+    },
+    {
+      "name": "R&R BBQ",
+      "distance_m": 3530.2558756116127,
+      "address": "10646 Jerry Seiner Rd, South Jordan, UT 84095",
+      "lat": 40.55797,
+      "lon": -111.9006
+    },
+    {
+      "name": "Slackwater",
+      "distance_m": 4023.3743950361545,
+      "address": "10290 State St, Sandy, UT 84070",
+      "lat": 40.564454,
+      "lon": -111.892068
+    },
+    {
+      "name": "MOOYAH Burgers, Fries & Shakes",
+      "distance_m": 4037.5016062405634,
+      "address": "9710 South State St, Unit 101, Sandy, UT 84070",
+      "lat": 40.57501,
+      "lon": -111.8916324
+    },
+    {
+      "name": "Bad-Ass Breakfast Burritos",
+      "distance_m": 4175.667922895225,
+      "address": "10261 State St, Sandy, UT 84070",
+      "lat": 40.5648662,
+      "lon": -111.8901568
+    },
+    {
+      "name": "Santorini's Greek Grill - Sandy",
+      "distance_m": 4185.051983398478,
+      "address": "10369 State St, Sandy, UT 84070",
+      "lat": 40.56317,
+      "lon": -111.89043
+    },
+    {
+      "name": "One Noodle Bar - West Jordan",
+      "distance_m": 4310.670585550995,
+      "address": "1793 W 7800th S, West Jordan, UT 84088",
+      "lat": 40.60916,
+      "lon": -111.94055
+    },
+    {
+      "name": "Tacos Lopez",
+      "distance_m": 4386.638443929165,
+      "address": "1594 W 7800th S, Ste B, West Jordan, UT 84088",
+      "lat": 40.609817,
+      "lon": -111.936627
+    },
+    {
+      "name": "Sofia\u2019s Doner Kebab Express",
+      "distance_m": 4557.05809963888,
+      "address": "2641 W 7800th S, Ste C, West Jordan, UT 84088",
+      "lat": 40.60913050554254,
+      "lon": -111.95673173145548
+    },
+    {
+      "name": "The Angry Korean",
+      "distance_m": 4804.592840664428,
+      "address": "11587 S District Main Dr, Ste 300, South Jordan, UT 84095",
+      "lat": 40.54077389598408,
+      "lon": -111.98043520923466
+    },
+    {
+      "name": "Side of Aloha",
+      "distance_m": 4834.62502367483,
+      "address": "11580 District Main Dr, Ste 100, South Jordan, UT 84095",
+      "lat": 40.540794,
+      "lon": -111.980947
+    },
+    {
+      "name": "Kenny J's BBQ",
+      "distance_m": 4876.7632306317555,
+      "address": "11610 District Dr, South Jordan, UT 84095",
+      "lat": 40.54034482058017,
+      "lon": -111.98107667974983
+    },
+    {
+      "name": "Los Tapatios Taco Grill - West Jordan",
+      "distance_m": 4911.94668794703,
+      "address": "3078 W 7800th S, Ste 10, West Jordan, UT 84088",
+      "lat": 40.60993,
+      "lon": -111.96504
+    },
+    {
+      "name": "RISE by Good Day",
+      "distance_m": 4971.5929293672425,
+      "address": "7872 South Old Bingham Hwy, West Jordan, UT 84088",
+      "lat": 40.6080985,
+      "lon": -111.9707257
+    },
+    {
+      "name": "MAKANMAKAN",
+      "distance_m": 5030.682539476047,
+      "address": "33 E 11400th S, Sandy, UT 84070",
+      "lat": 40.5444549,
+      "lon": -111.890276
+    },
+    {
+      "name": "Bumblebees BBQ and Grill",
+      "distance_m": 5716.538672529259,
+      "address": "7962 S State St, Midvale, UT 84047",
+      "lat": 40.606638299794206,
+      "lon": -111.89101745299428
+    },
+    {
+      "name": "Les BBQ",
+      "distance_m": 5972.569706539003,
+      "address": "12059 S State St, Draper, UT 84020",
+      "lat": 40.53200689706671,
+      "lon": -111.88962660635632
+    }
+  ],
+  "count": 50
+}

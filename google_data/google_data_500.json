@@ -1,0 +1,15 @@
+{
+  "timestamp": "2026-04-17T14:23:37.343365",
+  "data": [
+    {
+      "name": "Maverik",
+      "distance_m": 359.0596684127348,
+      "address": "9780 South Redwood Road, South Jordan",
+      "lat": 40.57361809999999,
+      "lon": -111.939534,
+      "rating": 3.6,
+      "source": "google"
+    }
+  ],
+  "count": 1
+}

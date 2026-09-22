@@ -1,0 +1,546 @@
+{
+  "timestamp": "2026-04-17T14:23:50.955706",
+  "data": [
+    {
+      "name": "Maverik",
+      "distance_m": 359.0596684127348,
+      "address": "9780 South Redwood Road, South Jordan",
+      "lat": 40.57361809999999,
+      "lon": -111.939534,
+      "rating": 3.6,
+      "source": "google"
+    },
+    {
+      "name": "El fog\u00f3n venezolano",
+      "distance_m": 642.5899670004264,
+      "address": "10300 South Redwood Road, South Jordan",
+      "lat": 40.56464059999999,
+      "lon": -111.939487,
+      "rating": 4.1,
+      "source": "google"
+    },
+    {
+      "name": "El Beto",
+      "distance_m": 662.8301788803461,
+      "address": "10255 South Redwood Road, South Jordan",
+      "lat": 40.5644806,
+      "lon": -111.9382435,
+      "rating": null,
+      "source": "google"
+    },
+    {
+      "name": "China Wok",
+      "distance_m": 775.314607607861,
+      "address": "1594 10400 South, South Jordan",
+      "lat": 40.5637732,
+      "lon": -111.936236,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "TACOS EL PARIENTE # 5",
+      "distance_m": 796.7101245385627,
+      "address": "10334 South Redwood Road, South Jordan",
+      "lat": 40.56325639999999,
+      "lon": -111.9385187,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Hokulia Shave Ice - South Jordan",
+      "distance_m": 818.4760789355549,
+      "address": "1634 South Jordan Parkway, South Jordan",
+      "lat": 40.56308729999999,
+      "lon": -111.9380664,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Bubbakoo's Burritos",
+      "distance_m": 863.6309344876785,
+      "address": "10384 South Redwood Road, South Jordan",
+      "lat": 40.5626492,
+      "lon": -111.9394521,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "McDonald's",
+      "distance_m": 866.2025764211276,
+      "address": "10381 South Redwood Road, South Jordan",
+      "lat": 40.562667,
+      "lon": -111.937926,
+      "rating": 3.3,
+      "source": "google"
+    },
+    {
+      "name": "MOD Pizza",
+      "distance_m": 878.8083353824379,
+      "address": "1598 South Jordan Parkway, South Jordan",
+      "lat": 40.5627495,
+      "lon": -111.936491,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "Del Taco",
+      "distance_m": 953.9353177746611,
+      "address": "1651 South Jordan Parkway West, South Jordan",
+      "lat": 40.56194419999999,
+      "lon": -111.937222,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Astro Burgers",
+      "distance_m": 998.2570492584864,
+      "address": "10452 South Redwood Road, South Jordan",
+      "lat": 40.5614325,
+      "lon": -111.93908,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "Hikari Sushi",
+      "distance_m": 1029.8207792200242,
+      "address": "10468 South Redwood Road, South Jordan",
+      "lat": 40.5611517,
+      "lon": -111.9393648,
+      "rating": 5,
+      "source": "google"
+    },
+    {
+      "name": "Cold Stone Creamery",
+      "distance_m": 1094.2831388811699,
+      "address": "10493 South Redwood Road, South Jordan",
+      "lat": 40.5605877,
+      "lon": -111.9382494,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Sodalicious",
+      "distance_m": 1101.6671818692423,
+      "address": "1421 South Jordan Parkway, South Jordan",
+      "lat": 40.5620063,
+      "lon": -111.9321422,
+      "rating": 4.2,
+      "source": "google"
+    },
+    {
+      "name": "Donut Star Cafe",
+      "distance_m": 1107.7826392139089,
+      "address": "10522 South Redwood Road, South Jordan",
+      "lat": 40.5604481,
+      "lon": -111.9391957,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "Subway",
+      "distance_m": 1119.664783025367,
+      "address": "10503 South Redwood Road, South Jordan",
+      "lat": 40.560365,
+      "lon": -111.9381283,
+      "rating": 3.8,
+      "source": "google"
+    },
+    {
+      "name": "Red Dragon Chinese Bistro",
+      "distance_m": 1150.9332094740607,
+      "address": "1383 South Jordan Parkway West, South Jordan",
+      "lat": 40.56187800000001,
+      "lon": -111.931336,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "Itto Sushi South Jordan",
+      "distance_m": 1226.3362900824154,
+      "address": "10555 South Redwood Road, South Jordan",
+      "lat": 40.5593985,
+      "lon": -111.9382397,
+      "rating": 4.7,
+      "source": "google"
+    },
+    {
+      "name": "Panda Express",
+      "distance_m": 1233.6743934420879,
+      "address": "10555 South Redwood Road suite b, South Jordan",
+      "lat": 40.55933650000001,
+      "lon": -111.9381479,
+      "rating": 3.6,
+      "source": "google"
+    },
+    {
+      "name": "Cafe Rio Fresh Modern Mexican",
+      "distance_m": 1301.8208126024188,
+      "address": "1664 West Towne Center Drive, South Jordan",
+      "lat": 40.5587363,
+      "lon": -111.9378791,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Oh Mai South Jordan",
+      "distance_m": 1304.2162113759543,
+      "address": "1644 Towne Center Drive d6, South Jordan",
+      "lat": 40.55876669999999,
+      "lon": -111.9371861,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Maverik",
+      "distance_m": 1305.2693893613919,
+      "address": "10425 South 1300 West, South Jordan",
+      "lat": 40.56179030000001,
+      "lon": -111.9285606,
+      "rating": 3.9,
+      "source": "google"
+    },
+    {
+      "name": "Sri Annapoorani",
+      "distance_m": 1305.4220858389026,
+      "address": "1776 West 10610 South, South Jordan",
+      "lat": 40.5586941,
+      "lon": -111.9400382,
+      "rating": 4.8,
+      "source": "google"
+    },
+    {
+      "name": "Munchkart - Fresh. Fast. Indian.",
+      "distance_m": 1305.8302802754858,
+      "address": "1776 West 10610 South A, South Jordan",
+      "lat": 40.55869029999999,
+      "lon": -111.9400357,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Tonyburgers - South Jordan",
+      "distance_m": 1352.4031927000153,
+      "address": "1685 Towne Center Drive, South Jordan",
+      "lat": 40.558265,
+      "lon": -111.938193,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "DP CHEESESTEAKS",
+      "distance_m": 1352.753125002063,
+      "address": "1665 Towne Center Drive #1, South Jordan",
+      "lat": 40.55827829999999,
+      "lon": -111.9378556,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Menchie's Frozen Yogurt",
+      "distance_m": 1359.8729918113015,
+      "address": "1665 Towne Center Drive # B-4, South Jordan",
+      "lat": 40.5582259,
+      "lon": -111.9376624,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "The Pie Pizzeria - So Jordan",
+      "distance_m": 1385.6090440399903,
+      "address": "10627 South Redwood Road, South Jordan",
+      "lat": 40.5580547,
+      "lon": -111.9369174,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Tacos 1905",
+      "distance_m": 1541.649409295519,
+      "address": "10709 South Redwood Road STE 101, South Jordan",
+      "lat": 40.5565594,
+      "lon": -111.9382369,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "WINGERS Restaurant",
+      "distance_m": 1556.123189453515,
+      "address": "9175 Redwood Road, West Jordan",
+      "lat": 40.5843873,
+      "lon": -111.9381359,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Flavors of India",
+      "distance_m": 1557.9079402890243,
+      "address": "1650 Fox Park Drive, West Jordan",
+      "lat": 40.584373,
+      "lon": -111.937531,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "La Puente",
+      "distance_m": 1615.052809293754,
+      "address": "9155 South Redwood Road, West Jordan",
+      "lat": 40.5849139,
+      "lon": -111.9380319,
+      "rating": 4.2,
+      "source": "google"
+    },
+    {
+      "name": "Biscotts Bakery & Caf\u00e9",
+      "distance_m": 1676.994639706437,
+      "address": "1098 Utah 151 #110, South Jordan",
+      "lat": 40.5618113,
+      "lon": -111.9227398,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "TACOS LOS ANGELES RESTAURANT",
+      "distance_m": 1694.0394914151573,
+      "address": "9117 South Redwood Road, West Jordan",
+      "lat": 40.5856266,
+      "lon": -111.9380687,
+      "rating": 4.7,
+      "source": "google"
+    },
+    {
+      "name": "Saffron Valley - South Jordan",
+      "distance_m": 1712.3172790610292,
+      "address": "1098 South Jordan Parkway West STE 102, South Jordan",
+      "lat": 40.5613829,
+      "lon": -111.922627,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Nagoya Hibachi & Sushi Burrito",
+      "distance_m": 1715.5749718805769,
+      "address": "9105 South Redwood Road, West Jordan",
+      "lat": 40.5858193,
+      "lon": -111.9380365,
+      "rating": 4.3,
+      "source": "google"
+    },
+    {
+      "name": "Jersey Mike's Subs",
+      "distance_m": 1735.3169894071652,
+      "address": "9089 South Redwood Road, West Jordan",
+      "lat": 40.5859999,
+      "lon": -111.9381152,
+      "rating": 4.9,
+      "source": "google"
+    },
+    {
+      "name": "7-Eleven",
+      "distance_m": 1776.1416442797115,
+      "address": "2680 South Jordan Parkway West, South Jordan",
+      "lat": 40.5627086,
+      "lon": -111.9574716,
+      "rating": 2.9,
+      "source": "google"
+    },
+    {
+      "name": "India Palace",
+      "distance_m": 1795.7829896898957,
+      "address": "1086 South Jordan Parkway # 111, South Jordan",
+      "lat": 40.5612693,
+      "lon": -111.9215236,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Maverik",
+      "distance_m": 1799.699819979665,
+      "address": "10419 South 2700 West, South Jordan",
+      "lat": 40.561704,
+      "lon": -111.9570109,
+      "rating": 3.9,
+      "source": "google"
+    },
+    {
+      "name": "Tushar Brazilian Express",
+      "distance_m": 1811.8262557745202,
+      "address": "1078 South Jordan Parkway West, South Jordan",
+      "lat": 40.5612293,
+      "lon": -111.9213295,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Carl's Jr.",
+      "distance_m": 1844.5263468034175,
+      "address": "9025 South Redwood Road, West Jordan",
+      "lat": 40.5869835,
+      "lon": -111.9381307,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Subway",
+      "distance_m": 1887.9202832035417,
+      "address": "9015 South Redwood Road, West Jordan",
+      "lat": 40.5873727,
+      "lon": -111.9380873,
+      "rating": 3.9,
+      "source": "google"
+    },
+    {
+      "name": "Taco Bell",
+      "distance_m": 1888.594943479459,
+      "address": "1649 West 9000 South, West Jordan",
+      "lat": 40.5873556,
+      "lon": -111.937537,
+      "rating": 3.4,
+      "source": "google"
+    },
+    {
+      "name": "Beans & Brews Coffee House",
+      "distance_m": 1891.2742165505222,
+      "address": "9002 South Redwood Road, West Jordan",
+      "lat": 40.5874186,
+      "lon": -111.9390789,
+      "rating": 4.2,
+      "source": "google"
+    },
+    {
+      "name": "Greek Souvlaki",
+      "distance_m": 1895.1071281848472,
+      "address": "1067 South Jordan Parkway, South Jordan",
+      "lat": 40.56029589999999,
+      "lon": -111.9209926,
+      "rating": 4.1,
+      "source": "google"
+    },
+    {
+      "name": "Domino's Pizza",
+      "distance_m": 1901.7712210921661,
+      "address": "1067 South Jordan Parkway West, South Jordan",
+      "lat": 40.5602817,
+      "lon": -111.9209084,
+      "rating": 3.9,
+      "source": "google"
+    },
+    {
+      "name": "A&W Restaurant",
+      "distance_m": 1956.3118664748483,
+      "address": "1680 West 9000 South, West Jordan",
+      "lat": 40.5879847,
+      "lon": -111.9379791,
+      "rating": 3.4,
+      "source": "google"
+    },
+    {
+      "name": "KFC",
+      "distance_m": 1960.5202653877711,
+      "address": "1680 West 9000 South, West Jordan",
+      "lat": 40.58803140000001,
+      "lon": -111.9382699,
+      "rating": 3.1,
+      "source": "google"
+    },
+    {
+      "name": "Village Baker",
+      "distance_m": 1970.1460723226712,
+      "address": "1658 West 9000 South, West Jordan",
+      "lat": 40.5880808,
+      "lon": -111.9373497,
+      "rating": 4.6,
+      "source": "google"
+    },
+    {
+      "name": "Red Basil",
+      "distance_m": 1972.2375259710825,
+      "address": "1652 West 9000 South, West Jordan",
+      "lat": 40.58807979999999,
+      "lon": -111.9370231,
+      "rating": 4.5,
+      "source": "google"
+    },
+    {
+      "name": "Burger King",
+      "distance_m": 1975.2995053929035,
+      "address": "1590 West 9000 South, West Jordan",
+      "lat": 40.5879953,
+      "lon": -111.9357383,
+      "rating": 3.4,
+      "source": "google"
+    },
+    {
+      "name": "Little Caesars Pizza",
+      "distance_m": 1981.6895573407135,
+      "address": "1650 West 9000 South, West Jordan",
+      "lat": 40.588148,
+      "lon": -111.936778,
+      "rating": 3.6,
+      "source": "google"
+    },
+    {
+      "name": "Wok-King Cafe Inc",
+      "distance_m": 1982.726998380715,
+      "address": "1650 9000 South #3, West Jordan",
+      "lat": 40.5881414,
+      "lon": -111.9365712,
+      "rating": 4,
+      "source": "google"
+    },
+    {
+      "name": "Wingstop",
+      "distance_m": 1983.5285102493829,
+      "address": "1826 West 9000 South, West Jordan",
+      "lat": 40.5881848,
+      "lon": -111.9410296,
+      "rating": 3.9,
+      "source": "google"
+    },
+    {
+      "name": "The Black Sheep Bar & Grill",
+      "distance_m": 1987.422903332176,
+      "address": "1520 West 9000 South C, West Jordan",
+      "lat": 40.5879381,
+      "lon": -111.9344473,
+      "rating": 4.4,
+      "source": "google"
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance_m": 2003.6271159545684,
+      "address": "1572 West 9000 South, West Jordan",
+      "lat": 40.5881672,
+      "lon": -111.9350203,
+      "rating": 3.5,
+      "source": "google"
+    },
+    {
+      "name": "Wendy's",
+      "distance_m": 2070.248666521104,
+      "address": "8935 South Redwood Road, West Jordan",
+      "lat": 40.5890168,
+      "lon": -111.9381935,
+      "rating": 3.5,
+      "source": "google"
+    },
+    {
+      "name": "McDonald's",
+      "distance_m": 2094.354169348852,
+      "address": "1265 West 9000 South, West Jordan",
+      "lat": 40.5872459,
+      "lon": -111.9279318,
+      "rating": 3.5,
+      "source": "google"
+    },
+    {
+      "name": "Arctic Circle",
+      "distance_m": 2441.36972016027,
+      "address": "9046 South 2700 West, West Jordan",
+      "lat": 40.586848,
+      "lon": -111.9582135,
+      "rating": 4,
+      "source": "google"
+    }
+  ],
+  "count": 60
+}

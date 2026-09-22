@@ -1,0 +1,265 @@
+{
+  "timestamp": "2025-09-17T16:34:37.441669",
+  "data": [
+    {
+      "name": "In-N-Out Burger",
+      "distance_m": 1175.7872728517752,
+      "address": "601 W Main St, American Fork, UT 84003",
+      "lat": 40.375956,
+      "lon": -111.814723020238
+    },
+    {
+      "name": "Boba Bee",
+      "distance_m": 1190.5618660266987,
+      "address": "739 W 100th N, Ste A3, American Fork, UT 84003",
+      "lat": 40.3785172,
+      "lon": -111.8192547
+    },
+    {
+      "name": "Sol Agave",
+      "distance_m": 1195.2490886831945,
+      "address": "749 West 100 North, Suite CRA 8, American Fork, UT 84003",
+      "lat": 40.378537528768135,
+      "lon": -111.8191768
+    },
+    {
+      "name": "Kahi Sushi",
+      "distance_m": 1197.3492831097185,
+      "address": "743 W 100th N, American Fork, UT 84003",
+      "lat": 40.37849672966035,
+      "lon": -111.8189940827423
+    },
+    {
+      "name": "Pier 49 Pizza",
+      "distance_m": 1201.686182124333,
+      "address": "737 W 100th N, American Fork, UT 84003",
+      "lat": 40.3784556247404,
+      "lon": -111.818754130619
+    },
+    {
+      "name": "Smart Cookie Company",
+      "distance_m": 1215.391981837279,
+      "address": "743 W 100th N, American Fork, UT 84003",
+      "lat": 40.378703,
+      "lon": -111.81908
+    },
+    {
+      "name": "Caf\u00e9 Zupas",
+      "distance_m": 1250.6749619337058,
+      "address": "599 W Main St, Alpine Valley Ctr, American Fork, UT 84003",
+      "lat": 40.3766558368409,
+      "lon": -111.814384946352
+    },
+    {
+      "name": "Ocotillo Prime",
+      "distance_m": 1298.640522826347,
+      "address": "598 W Main St, American Fork, UT 84003",
+      "lat": 40.3772,
+      "lon": -111.81431
+    },
+    {
+      "name": "Ocotillo Prime",
+      "distance_m": 1304.608363149054,
+      "address": "598 W Main St, American Fork, UT 84003",
+      "lat": 40.3772232026438,
+      "lon": -111.8142395
+    },
+    {
+      "name": "Cupbop - Korean BBQ in a Cup",
+      "distance_m": 1306.3820193665724,
+      "address": "598 W Main St, American Fork, UT 84003",
+      "lat": 40.37724029014837,
+      "lon": -111.81423279447708
+    },
+    {
+      "name": "CVS Pharmacy",
+      "distance_m": 1362.4615568599702,
+      "address": "608 W Main St, American Fork, UT 84003",
+      "lat": 40.378914,
+      "lon": -111.81595373098848
+    },
+    {
+      "name": "Starbucks",
+      "distance_m": 1385.6223899559564,
+      "address": "608 W Main St, American Fork, UT 84003",
+      "lat": 40.37889,
+      "lon": -111.81542
+    },
+    {
+      "name": "Baskin Robbins",
+      "distance_m": 1415.8046147046255,
+      "address": "51 NW State St, Ste 101, American Fork, UT 84003",
+      "lat": 40.37793,
+      "lon": -111.81331
+    },
+    {
+      "name": "Olive Garden Italian Restaurant",
+      "distance_m": 1417.4497416109907,
+      "address": "538 W Main St, American Fork, UT 84003",
+      "lat": 40.377269,
+      "lon": -111.81243
+    },
+    {
+      "name": "The Dessert Collective",
+      "distance_m": 1448.7236056577044,
+      "address": "101 N West State St, Ste 116, American Fork, UT 84003",
+      "lat": 40.37876680931449,
+      "lon": -111.81397170334546
+    },
+    {
+      "name": "Harts",
+      "distance_m": 1456.3883537443057,
+      "address": "21 N 1020 W St, American Fork, UT 84003",
+      "lat": 40.3742663209495,
+      "lon": -111.84033435726
+    },
+    {
+      "name": "Haku Ramen House",
+      "distance_m": 1477.808874986739,
+      "address": "101 NW State St, Ste 104, American Fork, UT 84003",
+      "lat": 40.378830803247745,
+      "lon": -111.81353539068188
+    },
+    {
+      "name": "Donut Run",
+      "distance_m": 1482.9572562729816,
+      "address": "102 NW State St, American Fork, UT 84003",
+      "lat": 40.378820220408954,
+      "lon": -111.8134251
+    },
+    {
+      "name": "Root's Place Burgers & More",
+      "distance_m": 1489.8403681602585,
+      "address": "66 NW State St, American Fork, UT 84003",
+      "lat": 40.37845,
+      "lon": -111.81276
+    },
+    {
+      "name": "Don Joaqu\u00edn Street Tacos",
+      "distance_m": 1490.0536266779056,
+      "address": "74 NW State St, American Fork, UT 84003",
+      "lat": 40.37813255798234,
+      "lon": -111.81232687367536
+    },
+    {
+      "name": "Hot n Cold Drinks",
+      "distance_m": 1501.9580557950178,
+      "address": "74 NW State St, American Fork, UT 84003",
+      "lat": 40.37827704976974,
+      "lon": -111.8123181
+    },
+    {
+      "name": "Waffle Love American Fork",
+      "distance_m": 1503.991216785833,
+      "address": "80 NW State St, American Fork, UT 84003",
+      "lat": 40.378271,
+      "lon": -111.812276
+    },
+    {
+      "name": "Sonic Drive-In",
+      "distance_m": 1542.6786222546784,
+      "address": "147 North West State St, American Fork, UT 84003",
+      "lat": 40.3798603,
+      "lon": -111.814014315605
+    },
+    {
+      "name": "La Puente Restaurant",
+      "distance_m": 1552.3096003574706,
+      "address": "114 NW State St, American Fork, UT 84003",
+      "lat": 40.3794449,
+      "lon": -111.8131287
+    },
+    {
+      "name": "Vessel Kitchen",
+      "distance_m": 1611.0806024556261,
+      "address": "197 NW State St, Ste B, American Fork, UT 84003",
+      "lat": 40.38117,
+      "lon": -111.81516
+    },
+    {
+      "name": "Cubby's",
+      "distance_m": 1620.4424638194323,
+      "address": "197 NW State St, American Fork, UT 84003",
+      "lat": 40.3814431,
+      "lon": -111.815567
+    },
+    {
+      "name": "Super Chix",
+      "distance_m": 1631.674357258933,
+      "address": "643 Pacific Dr, Ste 102, American Fork, UT 84003",
+      "lat": 40.38173020407208,
+      "lon": -111.8159935186522
+    },
+    {
+      "name": "Costa Vida",
+      "distance_m": 1653.645913083452,
+      "address": "643 W Pacific Dr, American Fork, UT 84003",
+      "lat": 40.381927,
+      "lon": -111.815929
+    },
+    {
+      "name": "Chick-fil-A",
+      "distance_m": 1663.0995980881437,
+      "address": "183 NW State Rd, American Fork, UT 84003",
+      "lat": 40.3813101,
+      "lon": -111.8142824233136
+    },
+    {
+      "name": "Froyo",
+      "distance_m": 1684.921644822983,
+      "address": "209 NW State St, American Fork, UT 84003",
+      "lat": 40.38177,
+      "lon": -111.81478
+    },
+    {
+      "name": "Five Guys",
+      "distance_m": 1685.475200613583,
+      "address": "209 NW State St, Ste B, American Fork, UT 84003",
+      "lat": 40.38172158631891,
+      "lon": -111.8146588
+    },
+    {
+      "name": "Zapplz Caramel Apples & Treats",
+      "distance_m": 1714.5109038675919,
+      "address": "192 N W State Rd, American Fork, UT 84003",
+      "lat": 40.38101,
+      "lon": -111.812644
+    },
+    {
+      "name": "Black Bear Diner - American Fork",
+      "distance_m": 1733.9863446404624,
+      "address": "154 NW State St, American Fork, UT 84003",
+      "lat": 40.3804415,
+      "lon": -111.8113551
+    },
+    {
+      "name": "Firehouse Subs",
+      "distance_m": 1742.0044398418752,
+      "address": "218 North West State Rd, American Fork, UT 84003",
+      "lat": 40.38179,
+      "lon": -111.81354
+    },
+    {
+      "name": "Aubergine Kitchen",
+      "distance_m": 1753.3180087883288,
+      "address": "232 NW State St, Ste 200, American Fork, UT 84003",
+      "lat": 40.382025,
+      "lon": -111.8137738
+    },
+    {
+      "name": "Good Earth Markets",
+      "distance_m": 1760.2338416265002,
+      "address": "336 W Main St, American Fork, UT 84003",
+      "lat": 40.37727850340541,
+      "lon": -111.807346
+    },
+    {
+      "name": "Habit Burger & Grill",
+      "distance_m": 1767.996996963816,
+      "address": "232 N W State Rd, Ste 101, American Fork, UT 84003",
+      "lat": 40.382176,
+      "lon": -111.813763935236
+    }
+  ],
+  "count": 37
+}

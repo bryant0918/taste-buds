@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-09-17T16:21:37.467121",
+  "data": [
+    {
+      "name": "Maverik Adventure's First Stop",
+      "distance_m": 342.1893621668235,
+      "address": "9780 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5734867,
+      "lon": -111.93896492252831
+    },
+    {
+      "name": "Soda Boba",
+      "distance_m": 661.8428275193143,
+      "address": "10309 S Redwood Rd, South Jordan, UT 84095",
+      "lat": 40.5644888,
+      "lon": -111.9382528
+    }
+  ],
+  "count": 2
+}
